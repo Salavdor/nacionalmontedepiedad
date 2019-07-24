@@ -258,17 +258,17 @@ header .slider {
     cursor: pointer;
     white-space: nowrap;
     line-height: 24px;
-    background-image: url(img/miniatura_video-05.png);
+    background-image: url(miniatura_video-05.png);
     transition: .2s;
 }
 .side-menu li:hover {
     color: #721d22;
-    background-image: url(img/miniatura_video-Activa-06.png);
+    background-image: url(miniatura_video-Activa-06.png);
     border-bottom: 4px solid #721d22;  
 }
 .side-menu li.active {
     color: #721d22;
-    background-image: url(img/miniatura_video-Activa-06.png);
+    background-image: url(miniatura_video-Activa-06.png);
 }
 .side-menu .cta {
     display: block;
